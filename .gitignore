@@ -1,0 +1,9 @@
+.idea/
+*.iml
+*.dat
+*.pdf
+*.zip
+*.csv
+*.txt
+*.bmp
+encrypted
